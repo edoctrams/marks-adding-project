@@ -1,4 +1,6 @@
-#  Marks Adder - Jupyter Notebook
+   <img width="1086" height="674" alt="image" src="https://github.com/user-attachments/assets/8b5d60d1-4870-4bf8-8d14-749d6b27d945" />
+   
+   #  Marks Adder - Jupyter Notebook
 
 A simple Python project that reads a CSV file containing student roll numbers and marks.  
 If a roll number appears multiple times, the notebook adds up the marks and saves the final result in a new CSV file.
@@ -32,5 +34,5 @@ If a roll number appears multiple times, the notebook adds up the marks and save
 
 
 
-   <img width="1086" height="674" alt="image" src="https://github.com/user-attachments/assets/8b5d60d1-4870-4bf8-8d14-749d6b27d945" />
+
 
